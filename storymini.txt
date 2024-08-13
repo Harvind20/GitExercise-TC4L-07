@@ -9,3 +9,5 @@ thassveen set up git
 cavin watches mortal kombat
 day 2 of mini it
 practice git commands
+new test branch merge conflict 2
+new test branch extra line
